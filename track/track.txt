@@ -1841,7 +1841,6 @@ HOST-SUFFIX,system.casalemedia.com
 HOST-SUFFIX,t.9gag.com
 HOST-SUFFIX,t.appsflyer.com
 HOST-SUFFIX,t.castle.io
-HOST-SUFFIX,t.co
 HOST-SUFFIX,t.contentsquare.net
 HOST-SUFFIX,t.dailymail.co.uk
 HOST-SUFFIX,t.effectivemeasure.net
