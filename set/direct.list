@@ -73,8 +73,6 @@ HOST-SUFFIX,pincong.rocks
 HOST-SUFFIX,hostloc.com
 HOST-SUFFIX,1password.com
 HOST-SUFFIX,huacloud.xyz
-HOST-KEYWORD,ininal
-AND,((HOST-KEYWORD,mail), (HOST-KEYWORD,google))
 # GFWlist
 HOST-SUFFIX,wikipedia.org
 HOST-SUFFIX,bbc.co.uk
@@ -251,11 +249,6 @@ HOST-SUFFIX,twitpic.com
 HOST-SUFFIX,twitter.com
 HOST-SUFFIX,twitter.jp
 HOST-SUFFIX,vine.co
-HOST,www.googleapis.com,DIRECT
-HOST-SUFFIX,docs.google.com,DIRECT
-HOST-SUFFIX,drive.google.com,DIRECT
-HOST-SUFFIX,googledrive.com,DIRECT
-HOST-SUFFIX,googleusercontent.com,DIRECT
 USER-AGENT,*com.google.Drive*,DIRECT 
 USER-AGENT,Google.Drive*,DIRECT
 host, push.air-matters.com, DIRECT 
